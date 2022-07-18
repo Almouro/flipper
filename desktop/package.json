@@ -69,7 +69,7 @@
   "devDependencies": {
     "@adobe/node-fetch-retry": "^2.0.0",
     "@babel/code-frame": "^7.15.8",
-    "@babel/eslint-parser": "^7.15.8",
+    "@babel/eslint-parser": "^7.18.9",
     "@jest-runner/electron": "^3.0.1",
     "@testing-library/dom": "^8.10.1",
     "@testing-library/react": "^12.1.2",
